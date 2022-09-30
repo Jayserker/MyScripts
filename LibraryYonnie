@@ -53,7 +53,7 @@ function Library:CreateWindow(Config, Parent)
 	end
 	]]
 	
-	Screen.Name =  "YonnieExploit"
+	Screen.Name =  "Klutch The Game"
 	Screen.Parent = Parent
 	Topbar.WindowName.Text = Config.WindowName
 
